@@ -1,0 +1,1148 @@
+*::selection{
+    background-color: #e5a93b;
+    color: #000;
+}
+body{
+    background-color: #0d0d15;
+    overflow-x: hidden;
+}
+#lxz{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+#head{
+    background-color: #0e141d;
+    height: 101px;
+    margin-left:-12px;
+    margin-right: -8px;
+    margin-top: -8px;
+    border-radius: 0px 0px 20px 20px;
+    transform: translate(0px,0px);
+}
+#img1{
+    transform: translate(1208px,-145px);
+    width: 40px;
+}
+#head2{
+    background-color: #e6b80027;
+    width: 53px;
+    height: 60px;
+    transform: translate(1197px,-87px);
+    border-radius: 20px;
+    border: 2px solid #e5a93b;
+}
+#d1{
+    color: white;
+    transform: translate(1103px,-220px);
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow:0px -1px 10px #e6b8007d ;
+}
+#d2{
+    color: white;
+    transform: translate(1120px,-229px);
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow:0px -1px 10px #e6b8007d ;
+}
+#d3{
+    color: #e5a93b;
+    font-size: 10px;
+    transform: translate(1117px,-239px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    text-shadow:1px -4px 20px #ffffff7d ;
+}
+#d4{
+    transform: translate(931px,-304px);
+    color: white;
+    font-size: 17px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow:0px -1px 10px #e6b8007d ;
+    transition: 0.1s;
+}
+#d5{
+    transform: translate(801px,-344px);
+    color: white;
+    font-size: 17px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow:0px -1px 10px #e6b8007d ;
+    transition: 0.1s;
+}
+#d6{
+    transform: translate(595px,-385px);
+    color: white;
+    font-size: 17px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow:0px -1px 10px #e6b8007d ;
+    transition: 0.1s;
+}
+#d7{
+    transform: translate(360px,-427px);
+    color: white;
+    font-size: 17px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow:0px -1px 10px #e6b8007d ;
+    transition: 0.1s;
+}
+#d8{
+    transform: translate(215px,-467px);
+    color: white;
+    font-size: 17px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-shadow:0px -1px 10px #e6b8007d ;
+    transition: 0.1s;
+}
+#btn1{
+    transform: translate(5px,-521px);
+    width: 168px;
+    height: 47px;
+    border-radius: 17px;
+    color: #000;
+    background-color: #e5a93b;
+    border: #e5a93b 2px;
+    box-shadow:0px 1px 6px #e5a93b ;
+    cursor: pointer;
+    transition: 0.1s;
+}
+#d9{
+    color: #000;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 17px;
+    transform: translate(-25px,-4px);
+}
+#img2{
+    width: 36px;
+    transform: translate(-50px,-514px);
+    cursor: pointer;
+}
+#hhy{
+    border: solid #e5a93b 1px;
+    width: 309px;
+    height: 35px;
+    transform: translate(440px,-442px);
+    border-radius: 18px;
+    background-color: #11161d;
+    box-shadow:0px 1px 6px #e5a93b;
+    transition: 0.1s;
+}
+#img3{
+    width: 27px;
+    transform: translate(705px,-475px);
+    cursor: pointer;
+}
+#k1{
+    color: #e5a93b;
+    transform: translate(30px,-7px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    text-shadow: 1px 1px 6px #e5a93b;
+    cursor: pointer;
+}
+#hhy:hover{
+    transform: translate(440px,-443px);
+}
+#d1,#d2,#d3,#d4,#d5,#d6,#d7,#d8,#d10{
+    cursor: pointer;
+}
+#llo{
+    color: white;
+    transform: translate(522px,-480px);
+    font-size: 60px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    text-shadow: 3px 3px 8px #ffd90054;
+}
+#llo2{
+    color: #e5a93b;
+    transform: translate(347px,-553px);
+    font-size: 60px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    text-shadow: 3px 3px 8px #ffd90054;
+}
+#llo3{
+    color: #958e65;
+    transform:translate(22px,-560px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    text-shadow: 3px 1px 8px #ffd90054;
+}
+#cr1{
+    background-color: #07111f;
+    height: 99px;
+    width: 169px;
+    transform: translate(139px,-486px);
+    border-radius: 25px;
+    box-shadow: -1px 1px 4px #6c6161;
+}
+.w1{
+    transform: translate(54px,20px);
+    font-size: 29px;
+    color: #e5a93b;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.w2{
+    color: #7b7a7a;
+    transform: translate(50px,2px);
+    font-size: 18px;
+}
+.cr2{
+    background-color: #07111f;
+    height: 99px;
+    width: 169px;
+    transform:  translate(399px,-612px);
+    border-radius: 25px;
+    box-shadow: -1px 1px 4px #6c6161;
+}
+.t1{
+    transform: translate(50px,15px);
+    font-size: 29px;
+    color: #e5a93b;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.t2{
+    color: #7b7a7a;
+    transform: translate(46px,-2px);
+    font-size: 18px;
+}
+.cr3{
+    background-color: #07111f;
+    height: 95px;
+    width: 169px;
+    transform: translate(661px,-735px);
+    border-radius: 25px;
+    box-shadow: -1px 1px 4px #6c6161;
+}
+.x1{
+    transform: translate(77px,15px);
+    font-size: 29px;
+    color: #e5a93b;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.x2{
+    color: #7b7a7a;
+    transform: translate(45px,-8px);
+    font-size: 18px;
+}
+.cr4{
+    background-color: #07111f;
+    height: 95px;
+    width: 169px;
+    transform: translate(924px,-857px);
+    border-radius: 25px;
+    box-shadow: -1px 1px 4px #6c6161;
+}
+.o1{
+    transform: translate(63px,15px);
+    font-size: 29px;
+    color: #e5a93b;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+.o2{
+    color: #7b7a7a;
+    transform: translate(41px,-8px);
+    font-size: 18px;
+}
+#btn2{
+    transform: translate(196px,-767px);
+    width: 307px;
+    height: 65px;
+    border-radius: 17px;
+    color: #000;
+    background-color: #e5a93b;
+    border: #e5a93b 2px;
+    box-shadow: 0px 1px 6px #e5a93b;
+    cursor: pointer;
+    transition: 0.1s;
+}
+#img4{
+    width: 45px;
+    transform: translate(119px,-754px);
+    cursor: pointer;
+}
+#d10{
+    color: #000;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 21px;
+    transform: translate(-42px,-2px);
+    cursor: pointer;
+}
+#btnr{
+    transform: translate(318px,-767px);
+    width: 307px;
+    height: 65px;
+    border-radius: 17px;
+    color: #000;
+    background-color: #14121a;
+    border: #e5a93b 2px;
+    box-shadow: 0px 1px 6px #e5a93b;
+    cursor: pointer;
+    transition: 0.1s;
+}
+#u10{
+    color: #ffffff;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 21px;
+    transform: translate(-42px,-2px);
+}
+#u10 a {
+    color: inherit;
+    text-decoration: none;
+}
+#d10 a {
+    color: inherit;
+    text-decoration: none;
+}
+#d10 a:visited,
+#d10 a:hover,
+#d10 a:active {
+    color: inherit;
+    text-decoration: none;
+}
+#img6{
+    width: 45px;
+    transform: translate(234px,-754px);
+    cursor: pointer;
+}
+.er1{
+    border: solid #e5a93b 0.5px;
+    height: 442px;
+    width: 377px;
+    transform: translate(424px,-697px);
+    border-radius: 20px;
+}
+#jju{
+    height: 441px;
+    width: 377px;
+    transform: translate(0px,0px);
+    border-radius: 20px;
+    box-shadow: 0px 1px 6px #e5a93b;
+}
+.po{
+    background-color:black;
+    height: 89px;
+    width: 256px;
+    transform: translate(61px,28px);
+    border-radius: 20px;
+    box-shadow: 0px 1px 6px #e5a93b;
+}
+#lmk{
+    color: white;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    transform: translate(60px,4px);
+}
+#kop{
+    color: #e5a93b;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    transform: translate(21px,-7px);
+    text-shadow: 0px 1px 6px #e5a93b;
+}
+#uui{
+    transform: translate(91px,-20px);
+    color: #e5a93b;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-shadow: 0px 1px 6px #e5a93b;
+}
+#lbv{
+    border: solid 1px #e5a93b;
+    width: 701px;
+    height: 264px;
+    transform: translate(248px,-485px);
+    border-radius: 20px;
+}
+.mz{
+    width: 701px;
+    height: 264px;
+    border-radius: 20px;
+    box-shadow: 0px 1px 6px #e5a93b;
+}
+#soz{
+    color: #e5a93b;
+    transform:  translate(31px,-369px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 23px;
+}
+#bnu{
+    color: white;
+    transform:  translate(31px,-369px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 23px;
+}
+#jx{
+    color: #575757;
+    transform:  translate(31px,-369px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+#hn{
+    width: 458px;
+    height: 73px;
+    border-radius: 17px;
+    color: #000;
+    background-color: #14121a;
+    border: #e5a93b 2px;
+    box-shadow: 0px 1px 6px;
+    cursor: pointer;
+    transform: translate(65px,-263px);
+}
+.pxm{
+    color: white;
+    font-size: 20px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 15px;
+    transform:translate(-68px,-1px);
+    cursor: pointer;
+}
+.jc{
+    color: #686868;
+    font-size: 10px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    transform: translate(-31px,-9px);
+}
+.pzx{
+    width: 37px;
+    transform: translate(182px,-60px);
+}
+#hn1{
+    width: 458px;
+    height: 73px;
+    border-radius: 17px;
+    color: #000;
+    background-color: #14121a;
+    border: #e5a93b 2px;
+    box-shadow: 0px 1px 6px;
+    cursor: pointer;
+    transform: translate(200px,-263px);
+}
+.pxm1{
+    color: white;
+    font-size: 20px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 15px;
+    transform:translate(-104px,-1px);
+    cursor: pointer;
+}
+.jc1{
+    color: #686868;
+    font-size: 10px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    transform: translate(-31px,-9px);
+}
+.pzx1{
+    width: 44px;
+    transform: translate(182px,-60px);
+}
+#kmq{
+    color: #e5a93b;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 20px;
+    transform: translate(452px,-135px);
+}
+#kmq2{
+    color: white;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 37px;
+    transform: translate(408px,-169px);
+}
+#nnxxw{
+    width: 129px;
+    height: 8px;
+    background-color: #e5a93b;
+    transform: translate(563px,-184px);
+    border-radius: 20px;
+}
+.tra1{
+    background-color: #132540;
+    width: 511px;
+    height: 407px;
+    transform: translate(66px,-101px);
+    border-radius: 20px 20px 0px 0px;
+    
+}
+#hy66{
+    transform: translate(1px,-2px);
+    width: 256px;
+    height: auto;
+    border-radius: 20px 0px 0px 0px;
+}
+#nnx{
+    transform: translate(1px,-2px);
+    width: 248px;
+    height: auto;
+    border-radius: 0px 20px 0px 0px;
+}
+#bxz{
+    background-color: #132540;
+    width: 511px;
+    height: 120px;
+    transform: translate(0px,-24px);
+    border-radius: 0px 0px 20px 20px;
+}
+#mxw{
+    color: white;
+    transform: translate(20px,20px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+}
+#fgx{
+    color: #6d6a6a;
+    transform: translate(10px,10px);
+    font-size: 14px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+} 
+.tra2{
+    background-color: #132540;
+    width: 312px;
+    height: 407px;
+    transform: translate(790px,-507px);
+    border-radius: 20px 20px 20px 20px;
+    
+}
+#hy662{
+    transform: translate(2px,0px);
+    width: auto;
+    height: 200px;
+    border-radius: 20px 20px 0px 0px;
+}
+#nnx2{
+    transform: translate(0px,-6px);
+    width: auto;
+    height: 202px;
+    border-radius: 0px 0px 0px 0px;
+}
+#bxz2{
+    background-color: #132540;
+    width: 312px;
+    height: 120px;
+    transform: translate(0px,-24px);
+    border-radius: 0px 0px 20px 20px;
+}
+#mxw2{
+    color: white;
+    transform: translate(20px,20px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+}
+#fgx2{
+    color: #6d6a6a;
+    transform: translate(10px,10px);
+    font-size: 14px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.tra3{
+    background-color: #132540;
+    width: 511px;
+    height: 407px;
+    transform: translate(66px,-344px);
+    border-radius: 20px 20px 0px 0px;
+    
+}
+#hy663{
+    transform: translate(1px,-3px);
+    width: 259px;
+    height: 700px;
+    border-radius: 20px 0px 0px 0px;
+}
+#nnx3{
+    transform: translate(-2px,0px);
+    width: 248px;
+    height: auto;
+    border-radius: 0px 20px 0px 0px;
+}
+#bxz3{
+    background-color: #132540;
+    width: 511px;
+    height: 120px;
+    transform: translate(0px,-24px);
+    border-radius: 0px 0px 20px 20px;
+}
+#mxw3{
+    color: white;
+    transform: translate(20px,20px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+}
+#fgx3{
+    color: #6d6a6a;
+    transform: translate(10px,10px);
+    font-size: 14px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+} 
+.tra4{
+    background-color: #132540;
+    width: 312px;
+    height: 816px;
+    transform: translate(790px,-753px);
+    border-radius: 20px 20px 20px 20px;
+}
+#hy664{
+    transform: translate(1px,0px);
+    width: 311px;
+    height: 296px;
+    border-radius: 20px 20px 0px 0px;
+}
+#nnx4{
+    transform: translate(1px,-6px);
+    width: 311px;
+    height: 306px;
+    border-radius: 0px 0px 0px 0px;
+}
+#bxz4{
+    background-color: #132540;
+    width: 312px;
+    height: 120px;
+    transform: translate(0px,-24px);
+    border-radius: 0px 0px 20px 20px;
+}
+#mxw4{
+    color: white;
+    transform: translate(20px,20px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+}
+#fgx4{
+    color: #6d6a6a;
+    transform: translate(8px,32px);
+    font-size: 17px;
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.plans {
+  --gold: #e8a93a;
+  --gold-dark: #8f6a22;
+  --card: #15161b;
+  --card-border: #2a2b33;
+  --white: #ffffff;
+  --muted: #8a8b94;
+  --feature: #d9d9de;
+
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px 20px 0;
+  color: var(--white);
+  font-family: "Poppins", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+.plans * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.plans__grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+
+.plan-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 330px;
+  padding: 28px 24px 24px;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 22px;
+  transform: translate(-499px,168px);
+}
+
+.plan-name {
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.plan-desc {
+  margin-top: 6px;
+  font-size: 10.5px;
+  color: var(--muted);
+}
+
+.plan-desc--gold {
+  color: var(--gold);
+}
+
+.plan-duration {
+  margin: 22px 0 20px;
+  font-size: 34px;
+  font-weight: 800;
+  line-height: 1.1;
+  color: var(--gold);
+}
+
+.plan-features {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 28px;
+}
+
+.plan-features li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 12.5px;
+  line-height: 1.45;
+  color: var(--feature);
+}
+
+.plan-features li::before {
+  content: "✓";
+  flex-shrink: 0;
+  font-weight: 700;
+  color: var(--gold);
+}
+
+.plan-features li.off {
+  color: var(--muted);
+}
+
+.plan-features li.off::before {
+  content: "✕";
+  color: var(--muted);
+}
+
+.plan-btn {
+  display: block;
+  margin-top: auto;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--white);
+  background: #222328;
+  border: 1px solid #3a3b44;
+  border-radius: 10px;
+  transition: border-color 0.2s, filter 0.2s;
+  cursor: pointer;
+}
+
+.plan-btn:hover {
+  border-color: var(--gold);
+}
+
+.plan-btn:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+
+.plan-btn--gold {
+  color: #17120a;
+  background: var(--gold);
+  border-color: var(--gold);
+  box-shadow: 0 8px 24px rgba(232, 169, 58, 0.25);
+}
+
+.plan-btn--gold:hover {
+  filter: brightness(1.08);
+}
+
+.plan-card--featured {
+  background: linear-gradient(180deg, #1a1b21 0%, #14151a 100%);
+  border-color: var(--gold-dark);
+  box-shadow:
+    0 0 45px rgba(232, 169, 58, 0.12),
+    0 20px 40px rgba(0, 0, 0, 0.4);
+  transform: translate(-494px,168px);
+}
+
+.plan-badge {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 5px 12px;
+  font-size: 10.5px;
+  font-weight: 600;
+  white-space: nowrap;
+  color: var(--white);
+  background: #1c1c21;
+  border: 1px solid var(--gold-dark);
+  border-radius: 999px;
+}
+
+@media (max-width: 900px) {
+  .plans__grid {
+    grid-template-columns: 1fr;
+    max-width: 420px;
+    margin-inline: auto;
+    gap: 36px;
+  }
+  .plan-card--featured {
+    transform: none;
+  }
+}
+
+.Supscriberggg{
+    width: 890px;
+    height: 800px;
+    transform: translate(-156px,273px);
+}
+.lxc{
+    color: #8f6a22;
+    font-size: 29px;
+    transform: translate(379px,-676px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-shadow: -1px 2px 57px #e5a93b;
+}
+.lxc2{
+    color: white;
+    font-size: 36px;
+    transform: translate(429px,-683px);
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+#fmmu{
+    width: 129px;
+    height: 8px;
+    background-color: #e5a93b;
+    transform: translate(561px,-688px);
+    border-radius: 20px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.testimonials-section {
+    padding: 80px 0;
+    text-align: center;
+}
+
+.sub-title {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #d99b26;
+    font-size: 13px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.main-title {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 36px;
+    color: #ffffff;
+    margin-bottom: 12px;
+}
+
+.title-underline {
+    width: 60px;
+    height: 4px;
+    background-color: #d99b26;
+    margin: 0 auto 50px auto;
+    border-radius: 2px;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #14151b;
+    border: 1px solid #20222a;
+    border-radius: 12px;
+    padding: 35px 30px 25px 30px;
+    width: 100%;
+    max-width: 520px;
+    text-align: left;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.quote-icon {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    font-size: 45px;
+    color: #d99b26;
+    opacity: 0.3;
+    font-family: Georgia, serif;
+    line-height: 1;
+}
+
+.review-text {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #cccccc;
+    font-size: 14px;
+    margin-bottom: 30px;
+    position: relative;
+    z-index: 1;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 15px;
+}
+
+.user-details {
+    text-align: right;
+}
+
+.user-name {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.user-status {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #777777;
+    font-size: 12px;
+    display: block;
+    margin-top: 2px;
+}
+
+.avatar {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    width: 40px;
+    height: 40px;
+    background-color: #d99b26;
+    color: #0d0e12;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.footer-section {
+    background-color: #0d0e12;
+    padding-top: 40px;
+    border-top: 1px solid #1a1b22;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 40px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 18px;
+}
+
+.social-icons a {
+    color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #d99b26;
+}
+
+.captain-info {
+    text-align: right;
+}
+
+.captain-info h3 {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+.captain-info p {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    color: #777777;
+    margin-top: 3px;
+}
+
+.copyright {
+    text-align: center;
+    border-top: 1px solid #14151b;
+    padding: 20px 0;
+}
+
+.copyright p {
+    font-family: "MuseoModerno", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 11px;
+    color: #555555;
+}
+
+@media (max-width: 768px) {
+    .cards-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer-content {
+        flex-direction: column-reverse;
+        gap: 25px;
+        text-align: center;
+    }
+    .captain-info {
+        text-align: center;
+    }
+}
+
+#lxz a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#d4, #d5, #d6, #d7, #d8 {
+    width: fit-content;
+}
